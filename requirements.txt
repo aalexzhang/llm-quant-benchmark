@@ -1,0 +1,9 @@
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+bitsandbytes>=0.43.0
+optimum>=1.19.0
+datasets>=2.18.0
+pandas>=2.0.0
+nvidia-ml-py>=12.560.30
+tqdm>=4.66.0
